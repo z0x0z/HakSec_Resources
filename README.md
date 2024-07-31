@@ -8,7 +8,7 @@ A collection of hacking / penetration testing resources to make you better!
 
 
 ## Table of Contents
- * [Learning the Skills](#learning-the-skills)
+ * [Learning the Skillss](#learning-the-skills)
  * [YouTube Channels](#youtube-channels)
    * [Companies](#Companies)
    * [Conferences](#Conferences)
